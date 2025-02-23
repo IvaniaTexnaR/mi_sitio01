@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Mi sitio
 #subtitle:
-subtitle: Estudiante de I.S.C.
+subtitle: Aplicaciones de Páginas Web
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Mi perfil
@@ -66,30 +66,25 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - googleplus:
-      name: Google
-      show: true
-      href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
-      icon: fab fa-google-plus
   - facebook:
       name: Facebook
       show: true
-      href: https://facebook.com/YOUR_FB_USERNAME
+      href: https://www.facebook.com/share/1ZKNBPQmf8/
       icon: fab fa-facebook
   - instagram:
       name: Instagram
       show: true
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      href: https://www.instagram.com/ivaniagpe?igsh=N3kyemRqNGc5aGpv
       icon: fab fa-instagram
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/IvaniaTexnaR
       icon: fab fa-github
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: ivaniatexna@gmail.com
       icon: fas fa-envelope
 
 
@@ -97,7 +92,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Estudiante de 8vo semestre de la carrera de Ingeniría en Sistemas Computacionales en el Instituto Tecnológico de Cancún
 
 #EOF
