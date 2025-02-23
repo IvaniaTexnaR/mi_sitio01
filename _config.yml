@@ -58,7 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "https://i.pinimg.com/736x/a6/21/22/a6212213379097d27352d954aebe44a2.jpg"
+# "https://avatars0.githubusercontent.com/u/8897534"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -81,11 +82,6 @@ links:
       show: true
       href: https://github.com/IvaniaTexnaR
       icon: fab fa-github
-  - email:
-      name: Email
-      show: true
-      href: https://ivaniatexna@gmail.com
-      icon: fas fa-envelope
 
 
 
