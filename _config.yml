@@ -12,12 +12,12 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Mi sitio
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Estudiante de I.S.C.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Fuse Core
+title: Mi perfil
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
